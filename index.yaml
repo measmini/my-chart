@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mypackage-web:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-23T18:11:40.214396462+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 22d4d3e924239bcb008c359ff613ebbe4d90c372e3d80f942ae0c605e9215873
+    name: mypackage-web
+    type: application
+    urls:
+    - mypackage-web-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-23T18:11:40.19443002+05:30"
